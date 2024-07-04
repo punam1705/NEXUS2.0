@@ -687,6 +687,7 @@
     position: fixed;
     justify-content: space-between;
     z-index: 999;
+    overflow: hidden;
   }
   #nav img {
     /* justify-content: flex-start; */
